@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="test1table" max_length="40" name="x_214746_test1_test1table" sizeclass="6" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Title " max_length="40" name="title" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="URL" max_length="40" name="url" type="string"/>
+    </element>
+</database>

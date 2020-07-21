@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message">
+    <sys_rest_message action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <authentication_type>basic</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile display_value="gmone_api">2b4c6e7f2f130010f1efea5ef699b6b8</basic_auth_profile>
+        <basic_auth_user/>
+        <description/>
+        <name>DEV GM1 IPservices</name>
+        <oauth2_profile/>
+        <protocol_name/>
+        <rest_endpoint>https://api-dev.gmone.ntt.com/IPservices/doc/ipsoft/EBondingIncidentManagementService/v1?wsdl</rest_endpoint>
+        <sys_class_name>sys_rest_message</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-27 03:53:23</sys_created_on>
+        <sys_id>c2bfc3692f330010f1efea5ef699b6f9</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>DEV GM1 IPservices</sys_name>
+        <sys_package display_value="test1" source="x_214746_test1">d928329d2f0f0010f1efea5ef699b6e2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test1">d928329d2f0f0010f1efea5ef699b6e2</sys_scope>
+        <sys_update_name>sys_rest_message_c2bfc3692f330010f1efea5ef699b6f9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-27 03:54:12</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message>
+</record_update>

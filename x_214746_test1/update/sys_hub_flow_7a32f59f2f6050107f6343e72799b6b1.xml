@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>false</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <compiler_build/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <internal_name>testad01</internal_name>
+        <label_cache>[{"name":"4f091534-b140-4985-84ef-5e0b0f9fd376.user_object","label":"1➛User Properties","reference_display":"User Properties","type":"string","base_type":"string","attributes":{"uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"string","uiUniqueId":"b412af3a-9508-453e-94d9-2f495dc6aca2"}},{"name":"4f091534-b140-4985-84ef-5e0b0f9fd376.status","label":"1➛Status","reference_display":"Status","type":"choice","base_type":"choice","attributes":{"uiTypeLabel":"Choice","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"choice","uiUniqueId":"f3b01047-35cb-4af2-b82a-2a92db894086"}},{"name":"4f091534-b140-4985-84ef-5e0b0f9fd376.error_message","label":"1➛Error Message","reference_display":"Error Message","type":"string","base_type":"string","attributes":{"uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"string","uiUniqueId":"78763272-cdca-4c3d-b615-d2d001eda578"}},{"name":"4f091534-b140-4985-84ef-5e0b0f9fd376.surname","label":"1➛Surname","reference_display":"Surname","type":"string","base_type":"string","attributes":{"uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"string","uiUniqueId":"f3b10970-6767-403c-922b-a887659aea7d"}},{"name":"4f091534-b140-4985-84ef-5e0b0f9fd376.name","label":"1➛Name","reference_display":"Name","type":"string","base_type":"string","attributes":{"uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"string","uiUniqueId":"9179ed5b-8427-4e24-9289-85d708be52d1"}},{"name":"4f091534-b140-4985-84ef-5e0b0f9fd376.user_principal_name","label":"1➛User Principal Name","reference_display":"User Principal Name","type":"string","base_type":"string","attributes":{"uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"string","uiUniqueId":"d0a7ce00-979b-4192-92bf-22a365058bf0"}},{"name":"4f091534-b140-4985-84ef-5e0b0f9fd376.given_name","label":"1➛Given Name","reference_display":"Given Name","type":"string","base_type":"string","attributes":{"uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"string","uiUniqueId":"e71dde01-508d-49d2-9b6d-25a99ca37eb2"}},{"name":"4f091534-b140-4985-84ef-5e0b0f9fd376.enabled","label":"1➛Enabled","reference_display":"Enabled","type":"boolean","base_type":"boolean","attributes":{"uiTypeLabel":"True/False","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"boolean","uiUniqueId":"16a45d8c-f2e9-4b5f-916d-e2611c867bc1"}},{"name":"4f091534-b140-4985-84ef-5e0b0f9fd376.sam_account_name","label":"1➛SAM Account Name","reference_display":"SAM Account Name","type":"string","base_type":"string","attributes":{"uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"string","uiUniqueId":"4e3bd853-6168-4010-9e02-f93eafbd669a"}},{"name":"4f091534-b140-4985-84ef-5e0b0f9fd376.user_distinguished_name","label":"1➛User Distinguished Name","reference_display":"User Distinguished Name","type":"string","base_type":"string","attributes":{"uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"string","uiUniqueId":"f1b6a96b-75c1-4523-898b-86b89fe44653"}}]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>testad01</name>
+        <natlang/>
+        <outputs/>
+        <remote_trigger_id/>
+        <run_as>user</run_as>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-08 14:20:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>7a32f59f2f6050107f6343e72799b6b1</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>testad01</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="test1" source="x_214746_test1">d928329d2f0f0010f1efea5ef699b6e2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test1">d928329d2f0f0010f1efea5ef699b6e2</sys_scope>
+        <sys_update_name>sys_hub_flow_7a32f59f2f6050107f6343e72799b6b1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-08 14:59:05</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=7a32f59f2f6050107f6343e72799b6b1"/>
+    <sys_variable_value action="delete_multiple" query="document_key=7a32f59f2f6050107f6343e72799b6b1"/>
+    <sys_hub_flow_component action="delete_multiple" query="flow=7a32f59f2f6050107f6343e72799b6b1^sys_idNOT INda1b799b2fa050107f6343e72799b65a"/>
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_type display_value="Lookup User">9b7f44d893c02300bba1925cf67ffb11</action_type>
+        <action_type_parent/>
+        <comment/>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="testad01">7a32f59f2f6050107f6343e72799b6b1</flow>
+        <order>1</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-08 14:59:05</sys_created_on>
+        <sys_id>da1b799b2fa050107f6343e72799b65a</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="test1">d928329d2f0f0010f1efea5ef699b6e2</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-08 14:59:05</sys_updated_on>
+        <ui_id>4f091534-b140-4985-84ef-5e0b0f9fd376</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=da1b799b2fa050107f6343e72799b65a"/>
+    <sys_hub_trigger_instance action="delete_multiple" query="flow=7a32f59f2f6050107f6343e72799b6b1^sys_idNOT INc61b799b2fa050107f6343e72799b655"/>
+    <sys_hub_trigger_instance action="INSERT_OR_UPDATE">
+        <comment/>
+        <display_text/>
+        <flow display_value="testad01">7a32f59f2f6050107f6343e72799b6b1</flow>
+        <name>Run Once</name>
+        <remote_sys_id/>
+        <sys_class_name>sys_hub_trigger_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-08 14:59:05</sys_created_on>
+        <sys_id>c61b799b2fa050107f6343e72799b655</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="test1">d928329d2f0f0010f1efea5ef699b6e2</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-08 14:59:05</sys_updated_on>
+        <trigger_definition display_value="Run Once">0a76e504c32222002841b63b12d3aeac</trigger_definition>
+        <trigger_inputs/>
+        <trigger_outputs/>
+        <trigger_type>run_once</trigger_type>
+    </sys_hub_trigger_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=c61b799b2fa050107f6343e72799b655"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_trigger_instance</document>
+        <document_key>c61b799b2fa050107f6343e72799b655</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-08 14:59:05</sys_created_on>
+        <sys_id>4e1b799b2fa050107f6343e72799b655</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-08 14:59:05</sys_updated_on>
+        <value>2020-05-01 01:00:00</value>
+        <variable display_value="">92afcd94c32222002841b63b12d3aee8</variable>
+    </sys_variable_value>
+    <sys_flow_cat_variable_model action="delete_multiple" query="id=7a32f59f2f6050107f6343e72799b6b1^sys_idNOT IN3e32f59f2f6050107f6343e72799b6b3"/>
+    <sys_flow_cat_variable_model action="INSERT_OR_UPDATE">
+        <id>7a32f59f2f6050107f6343e72799b6b1</id>
+        <name>testad01</name>
+        <sys_class_name>sys_flow_cat_variable_model</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-08 14:20:20</sys_created_on>
+        <sys_id>3e32f59f2f6050107f6343e72799b6b3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="test1">d928329d2f0f0010f1efea5ef699b6e2</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-08 14:20:20</sys_updated_on>
+    </sys_flow_cat_variable_model>
+    <sys_hub_action_instance action="delete_multiple" query="flow=7a32f59f2f6050107f6343e72799b6b1^sys_idNOT INda1b799b2fa050107f6343e72799b65a"/>
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_type display_value="Lookup User">9b7f44d893c02300bba1925cf67ffb11</action_type>
+        <action_type_parent/>
+        <comment/>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="testad01">7a32f59f2f6050107f6343e72799b6b1</flow>
+        <order>1</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-08 14:59:05</sys_created_on>
+        <sys_id>da1b799b2fa050107f6343e72799b65a</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="test1">d928329d2f0f0010f1efea5ef699b6e2</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-08 14:59:05</sys_updated_on>
+        <ui_id>4f091534-b140-4985-84ef-5e0b0f9fd376</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=da1b799b2fa050107f6343e72799b65a"/>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=da1b799b2fa050107f6343e72799b65a^sys_idNOT IN1a1b799b2fa050107f6343e72799b65b,1e1b799b2fa050107f6343e72799b65b"/>
+    <sys_hub_input_scripts action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <input_name>user_name</input_name>
+        <instance>da1b799b2fa050107f6343e72799b65a</instance>
+        <referenced_table>sys_hub_action_instance</referenced_table>
+        <script>{"user_name":{"scriptActive":true,"script":"/*\n**Access Flow/Action data using the fd_data object. Script must return a value.\n**example: var shortDesc \u003d fd_data.trigger.current.short_description;\n**return shortDesc;\n*/\nreturn \"IPcenter01\";"}}</script>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-08 14:59:05</sys_created_on>
+        <sys_id>1a1b799b2fa050107f6343e72799b65b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-08 14:59:05</sys_updated_on>
+    </sys_hub_input_scripts>
+    <sys_hub_input_scripts action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <input_name>filter</input_name>
+        <instance>da1b799b2fa050107f6343e72799b65a</instance>
+        <referenced_table>sys_hub_action_instance</referenced_table>
+        <script>{"filter":{"scriptActive":true,"script":"/*\n**Access Flow/Action data using the fd_data object. Script must return a value.\n**example: var shortDesc \u003d fd_data.trigger.current.short_description;\n**return shortDesc;\n*/\nreturn \"*\";\n"}}</script>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-08 14:59:05</sys_created_on>
+        <sys_id>1e1b799b2fa050107f6343e72799b65b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-08 14:59:05</sys_updated_on>
+    </sys_hub_input_scripts>
+</record_update>

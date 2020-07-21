@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity_profile_scope">
+    <oauth_entity_profile_scope action="INSERT_OR_UPDATE">
+        <oauth_entity_profile display_value="Azure AD OAuth default_profile">e3a781332f9c50107f6343e72799b661</oauth_entity_profile>
+        <oauth_entity_scope display_value="openid">ebe7c9b32f9c50107f6343e72799b681</oauth_entity_scope>
+        <sys_class_name>oauth_entity_profile_scope</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-27 14:26:59</sys_created_on>
+        <sys_id>720a89f32f9c50107f6343e72799b626</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>e3a781332f9c50107f6343e72799b661</sys_name>
+        <sys_package display_value="test1" source="x_214746_test1">d928329d2f0f0010f1efea5ef699b6e2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test1">d928329d2f0f0010f1efea5ef699b6e2</sys_scope>
+        <sys_update_name>oauth_entity_profile_scope_720a89f32f9c50107f6343e72799b626</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-27 14:26:59</sys_updated_on>
+    </oauth_entity_profile_scope>
+</record_update>

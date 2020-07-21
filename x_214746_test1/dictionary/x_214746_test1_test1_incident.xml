@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="test1_incident" max_length="40" name="x_214746_test1_test1_incident" sizeclass="1" type="collection">
+        <element display="true" label="Incident" max_length="32" name="incident" reference="incident" type="reference"/>
+        <element label="Name" max_length="128" name="name" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;//return current.number;&#13;&#10;&#9;return current.incident.short_description;&#13;&#10;&#9;//return '1';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="Test String1" max_length="128" name="test_string1" read_only="true" type="string" virtual="true"/>
+        <index name="index">
+            <element name="incident"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="table21" max_length="40" name="x_214746_test1_table21" sizeclass="2" type="collection">
+        <element display="true" label="Name" max_length="60" name="name" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Table22" max_length="32" name="table22" reference="x_214746_test1_table22" type="reference"/>
+        <element label="Value" max_length="64" name="value" type="string"/>
+        <index name="index">
+            <element name="table22"/>
+        </index>
+    </element>
+</database>

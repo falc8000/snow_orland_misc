@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-25 02:21:32</sys_created_on>
+        <sys_id>660158072f1010107f6343e72799b6c4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_214746_test1_dummy01.x_214746_test1.dummy01_user</sys_name>
+        <sys_package display_value="test1" source="x_214746_test1">d928329d2f0f0010f1efea5ef699b6e2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test1">d928329d2f0f0010f1efea5ef699b6e2</sys_scope>
+        <sys_security_acl display_value="x_214746_test1_dummy01">e20158072f1010107f6343e72799b6c1</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_660158072f1010107f6343e72799b6c4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-25 02:21:32</sys_updated_on>
+        <sys_user_role display_value="x_214746_test1.dummy01_user" name="x_214746_test1.dummy01_user">020118072f1010107f6343e72799b67e</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
